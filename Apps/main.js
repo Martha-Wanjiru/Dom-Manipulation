@@ -24,7 +24,7 @@ let developers = [
     age: 20,
     gender: "female",
     color: "Dark-brown",
-    githubUsername: "Evone_Wavinya"
+    githubUsername: "Evone-Wavinya"
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ let developers = [
     age: 21,
     gender: "male",
     color: "Black-American",
-    githubUsername: "joe-bits"
+    githubUsername: "kimani-caps"
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ let developers = [
     age: 22,
     color: "Black-American",
     gender: "Male",
-    githubUsername: "joe-bits"
+    githubUsername: "nicholasonyiego9"
 },
 
 {
@@ -62,7 +62,7 @@ let developers = [
     age: 20,
     color: "Brown",
     gender: "Male",
-    githubUsername: "joe-bits"
+    githubUsername: "kamana88"
 },
 
 {
@@ -72,7 +72,7 @@ let developers = [
     age: 20,
     color: "Brown",
     gender: "Female",
-    githubUsername: "martha-wanjiru"
+    githubUsername: "keziacoder"
 },
 
 {
@@ -82,7 +82,7 @@ let developers = [
     proffession: "Front-end developer",
     color: "Chocolate",
     gender: "Female",
-    githubUsername: "martha-wanjiru"
+    githubUsername: "elisakalosh"
 },
 
 {
@@ -92,7 +92,7 @@ let developers = [
     proffession: "Front-end developer",
     color: "Dark-brown",
     gender: "Male",
-    githubUsername: "joe-bits"
+    githubUsername: "Moses-Onyango"
 },
 
 {
@@ -102,7 +102,7 @@ let developers = [
     proffession: "Front-end developer",
     color: "Brown",
     gender: "Female",
-    githubUsername: "martha-wanjiru"
+    githubUsername: "wanjiku8"
 },
 
 {
@@ -132,7 +132,7 @@ let developers = [
     proffession: "Front-end developer",
     color: "Black-American",
     gender: "Male",
-    githubUsername: "joe-bits"
+    githubUsername: "iddizo04"
 },
 
 {
@@ -142,7 +142,7 @@ let developers = [
     proffession: "Front-end developer",
     color: "Black-American",
     gender: "Male",
-    githubUsername: "martha-wanjiru"
+    githubUsername: "Fredric001"
 },
 
 {
@@ -163,6 +163,16 @@ let developers = [
     color: "Dark-brown",
     gender: "Female",
     githubUsername: "Michell635"
+},
+
+{
+  id: 19,
+  name: "Bivon Moses",
+  age: 26,
+  Proffession: "Front-end developer",
+  color: "Dark-brown",
+  gender: "Male",
+  githubUsername: "Bivon-moses"
 },
 
 ];
